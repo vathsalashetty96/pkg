@@ -6,4 +6,4 @@ run:
     - vendor
 linters-settings:
   goimports:
-    local-prefixes: github.com/argoproj/pkg
+    local-prefixes: github.com/vathsalashetty96/pkg
