@@ -1,4 +1,4 @@
-module github.com/vathsalashetty96/pkg
+module github.com/argoproj/pkg
 
 go 1.14
 
